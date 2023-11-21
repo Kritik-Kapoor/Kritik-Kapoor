@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kritik-Kapoor
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any web development projects
+- 👀 Frontend developer
+- 🌱 Currently working with React.js
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me, just open an issue or tag me @kritik0401@gmail.com 
 
 <!---
