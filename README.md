@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kritik-Kapoor
 - 👀 Frontend developer
-- 🌱 Currently working with React.js
+- 🌱 Currently working with React.js and learning Next.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me, just open an issue or tag me @kritik0401@gmail.com 
 
