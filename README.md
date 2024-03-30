@@ -2,7 +2,7 @@
 - 👀 Frontend developer
 - 🌱 Currently working with React.js and learning Next.js
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, just open an issue or tag me @kritik0401@gmail.com 
+- 📫 How to reach me, tag me @kritik0401@gmail.com 
 
 <!---
 Kritik-Kapoor/Kritik-Kapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
